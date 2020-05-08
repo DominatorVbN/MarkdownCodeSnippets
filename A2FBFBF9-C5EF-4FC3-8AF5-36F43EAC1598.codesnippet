@@ -3,24 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsPropertyWeak</string>
+	<string>list</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) &lt;#type#&gt; &lt;#variable#&gt;;</string>
+	<string>/*: &lt;#Numbered list with multiple levels#&gt;
+ 1. &lt;#Item#&gt;
+ 2. &lt;#Item#&gt;
+ 1. &lt;#Item#&gt;
+ 3. &lt;#Item#&gt;
+*/</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C82215E5-4376-4AE3-AAA9-56A37DB14EA9</string>
+	<string>A2FBFBF9-C5EF-4FC3-8AF5-36F43EAC1598</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Defines a declared property as weak.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property Weak</string>
+	<string>Multilevel Numbered List Playground Markdown</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -3,24 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsPropertyBlock</string>
+	<string>h2</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) void (^&lt;#blockName#&gt;)(&lt;#parameterTypes#&gt;);</string>
+	<string>/*:
+ ## &lt;#Heading2 in Block#&gt;
+ */
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>01CD69E2-D847-4F64-A9CB-5EF18876C27F</string>
+	<string>604A3E0A-66D4-4C9D-BE4A-A3F9AC8A6D9B</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Creates a block as a property</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property Block</string>
+	<string>Heading 2 Playground Markup</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

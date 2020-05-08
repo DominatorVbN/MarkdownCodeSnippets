@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsPropertyCopy</string>
+	<string>hidden</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) &lt;#type#&gt; *&lt;#variable#&gt;;</string>
+	<string>//#-hidden-code
+&lt;#Code#&gt;
+//#-end-hidden-code</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B4C52A34-411B-48EF-8D22-9917F6757844</string>
+	<string>5ED2EF5B-C20C-42BF-9F11-8E224127899C</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Defines a declared property</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property Copy</string>
+	<string>Hidden Playground Code</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

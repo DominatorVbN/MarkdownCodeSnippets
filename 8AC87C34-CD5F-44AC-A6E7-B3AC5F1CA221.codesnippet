@@ -3,28 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsPerformSelectorLeak</string>
+	<string>quote</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Warc-performSelector-leaks"
-&lt;#[target performSelector]#&gt;
-#pragma clang diagnostic pop
-</string>
+	<string>/*:
+&gt; &lt;#quote#&gt;
+*/</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>64A56053-8AA1-43C0-A89F-5916D8212A06</string>
+	<string>8AC87C34-CD5F-44AC-A6E7-B3AC5F1CA221</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>#pragram to ignore PerformSelector leak warning.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>PerformSelector Leak</string>
+	<string>Quote Playground Markup</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -3,26 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsRedBorder</string>
+	<string>bold</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>CALayer *layer = [&lt;#view#&gt; layer];
-layer.borderColor = [[UIColor redColor] CGColor];
-layer.borderWidth = 1.0f;</string>
+	<string>//: **&lt;#bold#&gt;** 
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>EAD65E33-AB85-465C-9243-3772E8AD7A3C</string>
+	<string>C9D9BAF0-6107-4F74-850E-066DB29615FC</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Draws a red frame border at runtime.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Red runtime frame</string>
+	<string>Strong Playground Markdown</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

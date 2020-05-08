@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsPropertyAssign</string>
+	<string>link</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#variable#&gt;;</string>
+	<string>//: [&lt;# Tappable text #&gt;](&lt;# URL #&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2A05C797-72E5-4890-A7CB-2C8A6EF193A5</string>
+	<string>E26642D2-D38D-4064-9E3B-737C44C74F76</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Defines a declared property.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property Assign</string>
+	<string>Link Playground Markup</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

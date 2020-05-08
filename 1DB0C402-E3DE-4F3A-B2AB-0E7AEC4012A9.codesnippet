@@ -3,34 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsInitWithDefaultNib</string>
+	<string>h1</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (id)initWithDefaultNib
-{
-   self = [super initWithNibName:@"&lt;#nibname#&gt;" bundle:nil];
-   if (self) {
-      &lt;#initializations#&gt;
-   }
-   return self;
-}
+	<string>/*:
+ # &lt;#Heading1 in Block#&gt;
+ */
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>796A1936-1B22-43E8-B0D4-E7EAA939CFD1</string>
+	<string>1DB0C402-E3DE-4F3A-B2AB-0E7AEC4012A9</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>initWithDefaultNib method stub.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>initWithDefaultNib</string>
+	<string>Heading 1 Playground markup</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

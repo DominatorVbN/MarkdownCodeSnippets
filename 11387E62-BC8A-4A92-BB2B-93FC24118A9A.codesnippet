@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsInitWithDefaultNib</string>
+	<string>markdown</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (id)initWithDefaultNib;</string>
+	<string>/*:
+ &lt;#Markdown#&gt;
+ */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E811EA70-B05F-4799-89D7-943CAF92AB1D</string>
+	<string>11387E62-BC8A-4A92-BB2B-93FC24118A9A</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Declares - (id)initWithDefaultNib method.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>initWithDefaultNib Declaration</string>
+	<string>Markdown Comment Playground</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

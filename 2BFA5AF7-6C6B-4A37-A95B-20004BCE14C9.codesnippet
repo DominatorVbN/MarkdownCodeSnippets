@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsDispatchAsyncMainQueue</string>
+	<string>image</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dispatch_async(dispatch_get_main_queue(), ^{
-    &lt;#code#&gt;
-});
-</string>
+	<string>//: ![&lt;# Text to show when unable to load url #&gt;!](&lt;# Image url either local/network #&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>00EC4395-2374-4C2A-8D4C-5B4DF268F9D0</string>
+	<string>2BFA5AF7-6C6B-4A37-A95B-20004BCE14C9</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Dispatch Async Main Queue</string>
+	<string>Image Playground Markdown</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -3,25 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsDispatchAsyncDefaultQueue</string>
+	<string>h3</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
-    &lt;#code#&gt;
-});
-</string>
+	<string>/*:
+ ### &lt;#Heading3 in Block#&gt;
+ */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D578695C-A1CE-4947-876A-E4E559605202</string>
+	<string>0EB3D2C2-F2AF-49CE-B9B3-E1DEA9A79CDF</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Dispatch Async Default Queue</string>
+	<string>Heading 3 Playground Markup</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

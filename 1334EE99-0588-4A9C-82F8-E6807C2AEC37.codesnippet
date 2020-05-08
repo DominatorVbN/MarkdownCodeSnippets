@@ -3,24 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsSynthesize</string>
+	<string>bullet</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@synthesize &lt;#property#&gt; = _&lt;#ivar#&gt;;</string>
+	<string>/*: &lt;#A bulleted list title#&gt;
+* &lt;#Item 1#&gt;
+* &lt;#Item 2#&gt;
+*/</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>004CE6E9-88B2-4F67-B4F8-2511884A0968</string>
+	<string>1334EE99-0588-4A9C-82F8-E6807C2AEC37</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Synthesize property.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Synthesize</string>
+	<string>Bullet lisr markdown playground</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

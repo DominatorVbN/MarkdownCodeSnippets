@@ -3,26 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>wpsMocSave</string>
+	<string>itallic</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>   NSError *error = nil;
-   ZAssert([context save:&amp;error], @"Context save error: %@\n%@", [error localizedDescription], [error userInfo]);
-</string>
+	<string>//: *&lt;#emphasis#&gt;*</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>395D1D59-17F0-4524-819F-7B410FA0E902</string>
+	<string>5A008F23-BB1E-4B29-BA8A-0CC2A0808E23</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>MOC save wrapped in a ZAssert.</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Managed Object Context Save</string>
+	<string>Emphasis Playground Markdown</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
